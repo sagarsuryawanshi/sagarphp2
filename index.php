@@ -2,7 +2,7 @@
 
 echo 'hello world';
 
-	$page_access_token = 'EAACEdEose0cBAD3fL6BHvZAeKPQozartkz72hHAv985KMs06bFVXf9XIj0Xanvtr4iq8rSrGv42JnSwaEjAfT2mGK5NZBkPKq7mugUvlc6VPv3Ckp0Krl66dBkrH4WaAI9YxN6ZBI0Pr95IZACWeMUoMqWtgqZBVTX5p4SYPAJ9hgFOoOOTuv';
+	$page_access_token = 'EAACEdEose0cBAOHDuC0B4ZAmYQFUSZAsq7KMzHW9zBjThPtNTZBZA0vXu4vv748LNG4zJx1chJOOKwZBjxtYVRL3j8907Oh5pH6W0KyMc3LQcyuWo4mt7hoTAOKPe4YS3o766m2cZAuDdSvsZCel7AFjEhfsVMWZBJg76mOilGL2tjm3NwZAQpdXltvsGj4QQWYdnNWHOOFXvSwZDZD';
 	$page_id = '316541605343830';
 	//$data['picture'] = "https://quoteoftheday.co.in/img/logo.png";
 	$data['link'] = "http://www.example.com/";
